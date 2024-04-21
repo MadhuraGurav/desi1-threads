@@ -1,0 +1,19 @@
+# Ignore system-specific directories
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore specific files
+.gitconfig
+.lesshst
+NTUSER.DAT*
+NTUSER.ini
+

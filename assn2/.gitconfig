@@ -1,0 +1,10 @@
+[user]
+	name = MadhuraGurav
+	email = 162449410+MadhuraGurav@users.noreply.github.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	autocrlf = true
