@@ -1,0 +1,25 @@
+/* Custom CSS styles for your UrbanStyle website */
+
+/* Style for the header */
+h1 {
+    color: #333; /* Dark grey color */
+  }
+  
+  /* Style for the container */
+  .container {
+    margin-top: 50px; /* Add some top margin */
+  }
+  
+  /* Style for the product images */
+  img {
+    max-width: 100%; /* Ensure images don't overflow their container */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* Style for buttons */
+  .btn {
+    margin-right: 10px; /* Add some spacing between buttons */
+  }
+  
+  /* Additional styles can be added as needed */
+  
